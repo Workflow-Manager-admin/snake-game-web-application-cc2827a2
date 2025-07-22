@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/snake-game-web-application-cc2827a2/frontend_react_js"
+}
